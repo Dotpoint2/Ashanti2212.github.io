@@ -2,3 +2,6 @@
   background-image: url('cctv1.jpg');
   background-color: rgba(255, 255, 255, 0.5);
 }
+.primary-color {
+  background-color: blue;
+}
